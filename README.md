@@ -2,16 +2,13 @@
 
 ### 👨‍💻 `whoami`
 
-- I am a **Software Engineer** based in the Indonesia.
-- 🌱 I love **Engineering Systems** and **Building Products**.
-- ⚙️ I write a lot of **PHP** and **Go** these days.
+- - ![youknowwhoiam.](https://placehold.co/15x15/f03c15/f03c15.png)
+- 🌱 I love **Engineering Systems** and **Building Products**, **Competitive Games** and **History**. 
 - 📜 I write **[blogs](https://josuamarcelc.com/blog)** on **Random Experiences** and **Computer Science**.
-- 🖍️ I like **Competitive Games** and **History**.
 
 ### 🤝 Reach out to Me
 
 [![Twitter: josuamarcelc](https://img.shields.io/badge/josuamarcelc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/josuamarcelc)
-[![Blog](https://img.shields.io/badge/google.com-0A0A0A?style=for-the-badge&logo=google.com&logoColor=white)](https://josuamarcelc.com)
 [![Instagram](https://img.shields.io/badge/josuamarcelc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josuamarcelc/)
 
 ### ⚡ Skills
