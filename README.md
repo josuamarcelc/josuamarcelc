@@ -2,7 +2,7 @@
 
 ### 👨‍💻 `whoami`
 
-- - ![youknowwhoiam.](https://placehold.co/15x15/f03c15/f03c15.png)
+- [![youknowwhoiam.](https://placehold.co/15x15/f03c15/f03c15.png)
 - 🌱 I love **Engineering Systems** and **Building Products**, **Competitive Games** and **History**. 
 - 📜 I write **[blogs](https://josuamarcelc.com/blog)** on **Random Experiences** and **Computer Science**.
 
