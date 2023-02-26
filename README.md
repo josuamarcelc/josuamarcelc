@@ -29,9 +29,8 @@
 
 ### 📈 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&show_icons=true&theme=dark&layout=compact&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josuamarcelc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![josuamarcelc's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&show_icons=true&theme=dark&layout=compact&hide_border=true)
 
 ![](https://hit.yhype.me/github/profile?user_id=2734197)
