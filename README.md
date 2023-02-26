@@ -1,8 +1,7 @@
 ## Hi there, I am Josh 👋
 
-### 👨‍💻 `whoami`
+### **~~youknowwhoiam.~~**
 
-- **~~youknowwhoiam.~~**
 - 🌱 I love **Engineering Systems** and **Building Products**, **Competitive Games** and **History**. 
 - 📜 I write **[blogs](https://josuamarcelc.com/blog)** on **Random Experiences** and **Computer Science**.
 
