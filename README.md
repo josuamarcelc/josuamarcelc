@@ -14,8 +14,8 @@
 
 [![Twitter: josuamarcelc](https://img.shields.io/badge/josuamarcelc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/josuamarcelc)
 [![Website](https://img.shields.io/badge/josuamarcelc.com-005AF0?style=for-the-badge&logo=amp&logoColor=white)](josuamarcelc.com)
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/godcrampy)
-<!-- [![Instagram](https://img.shields.io/badge/josuamarcelc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josuamarcelc/) -->
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://josuamarcelc.com)
+[![Instagram](https://img.shields.io/badge/josuamarcelc-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/josuamarcelc/)
 
 
 ### ⚡ Skills
