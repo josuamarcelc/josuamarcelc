@@ -14,7 +14,7 @@
 #### Programming Languages
 
 
-![Google Academy 2024](https://img.shields.io/badge/google-academy-red)
+[![Google Academy 2024](https://img.shields.io/badge/google-academy-red)](https://www.cloudskillsboost.google/public_profiles/3e3958b8-4f82-4bdf-9c41-497b9d9dad60)
 ![PHP](https://img.shields.io/badge/php-%230175C2.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
