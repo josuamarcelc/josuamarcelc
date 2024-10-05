@@ -46,5 +46,11 @@
 ![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)(https://google.com)![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)[![Donate Me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/josuamarcelc/1)
 
 
+# Support My Work
 
+If you find my work useful and would like to support me, please consider donating:
+
+[![Donate Me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/josuamarcelc/1)
+
+Thank you for your support!
 ![](https://hit.yhype.me/github/profile?user_id=2734197)
