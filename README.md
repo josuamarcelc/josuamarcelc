@@ -43,7 +43,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuamarcelc&theme=aura_dark&utcOffset=7)
 ![](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
 
-![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)(https://google.com)![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)[![Donate Me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/josuamarcelc/1)
+![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)[![Donate Me](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://paypal.me/josuamarcelc/1)
 
 
 # Support My Work
