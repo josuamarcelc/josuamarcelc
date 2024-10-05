@@ -41,7 +41,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuamarcelc&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuamarcelc&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuamarcelc&theme=aura_dark&utcOffset=7)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josuamarcelc\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
 
 ![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)
 
