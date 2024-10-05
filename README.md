@@ -33,8 +33,15 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josuamarcelc&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![josuamarcelc's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true&theme=dark&count_private=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&show_icons=true&theme=dark&layout=compact&hide_border=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuamarcelc&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuamarcelc&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuamarcelc&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuamarcelc&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuamarcelc&theme=aura_dark&utcOffset=7)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=josuamarcelc\&layout=compact)
 
 ![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)
 
