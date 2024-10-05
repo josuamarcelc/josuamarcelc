@@ -46,7 +46,7 @@
 [![Stackoverflow Flair](https://stackexchange.com/users/flair/1702393.png)](https://stackoverflow.com/users/1562112/josua-m-c)  [![Magento Flair](https://magento.stackexchange.com/users/flair/2330.png)](https://magento.stackexchange.com/users/2330/josua-m-c)
 
 
-#  ![Support My Blog](https://josuamarcelc.com/blog/)
+#  [Support My Blog](https://josuamarcelc.com/blog/)
 
 If you find my work useful and would like to support me, please consider donating:
 
