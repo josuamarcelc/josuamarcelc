@@ -38,13 +38,10 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## 📌 Featured projects
 
-- **[Registrar API](https://github.com/josuamarcelc/registrar-api)** — Registrar API implementation in PHP (domain registrar integration).  
-- **Common Password List** — A curated set of commonly used passwords for security testing.  
-  https://github.com/josuamarcelc/common-password-list  
-- **BCA-API-v2** — Signature + token generator in PHP to fetch statements/forex.  
-  https://github.com/josuamarcelc/BCA-API-v2  
-- **Chinese Lunar Calendar (PHP)** — Lunar ↔ Gregorian conversion & queries.  
-  https://github.com/josuamarcelc/chinese-lunar-calendar-plugins  
+- **[Registrar API](https://github.com/josuamarcelc/registrar-api)** — Registrar API implementation in PHP (domain registrar integration).
+- **[Common Password List](https://github.com/josuamarcelc/common-password-list)** — A curated set of commonly used passwords for security testing.
+- **[BCA-API-v2](https://github.com/josuamarcelc/BCA-API-v2)** — Signature + token generator in PHP to fetch statements/forex.
+- **[Chinese Lunar Calendar (PHP)](https://github.com/josuamarcelc/chinese-lunar-calendar-plugins)** — Lunar ↔ Gregorian conversion & queries.
 
 ---
 
