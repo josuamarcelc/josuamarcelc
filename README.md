@@ -25,14 +25,26 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![ExtJS](https://img.shields.io/badge/ExtJS-1E90FF?logo=sencha&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-2C2C2C?logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 ---
 
@@ -47,9 +59,10 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## 📈 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=josuamarcelc)
-![Stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=josuamarcelc)  
+![Stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&layout=compact)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuamarcelc&theme=github)
 
 ---
 
@@ -63,5 +76,5 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## ❤️ Support
 
--  If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.
--  If AgilePy helps you, consider visiting **[agilepy](https://agilepy.com/donate/)**
+-  If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.  
+-  If AgilePy helps you, consider visiting **[AgilePy Donate](https://agilepy.com/donate/)**  
