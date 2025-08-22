@@ -1,7 +1,8 @@
 # Hey, I’m Josh
 
 **PHP, PostgreSQL & Python engineer** building APIs, bots, and lean products.  
-Core developer at [AgilePy](https://agilepy.com) — a minimal, extensible Python web framework.  
+Core developer at [AgilePy](https://agilepy.com) — a minimal, extensible Python web framework.
+Founder of [SEOULTRA](https://seoultra.id) — offering free SEO, marketing, and developer tools.
 I like engineering systems, shipping useful tools, competitive games, and history.  
 I also write about lyrics, random experiences & computer science on [My PHP Blog](https://josuamarcelc.com).
 
@@ -9,6 +10,7 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## ⚡ What I’m up to
 - Core system dev at [AgilePy](https://agilepy.com)  
+- Feel free to use the [Premium SEO Free Tools](https://seoultra.id/tools/) 
 - Shipping small, composable libraries and APIs in PHP & Python.  
 - Playing with bots, webhooks, and payments.  
 - Writing about things I break (and fix).  
