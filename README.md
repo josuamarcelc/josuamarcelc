@@ -38,15 +38,11 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## 📌 Featured projects
 
-- **Registrar API** — Registrar API implementation in PHP (domain registrar integration).  
-  https://github.com/josuamarcelc/registrar-api  
-
+- **[Registrar API](https://github.com/josuamarcelc/registrar-api)** — Registrar API implementation in PHP (domain registrar integration).  
 - **Common Password List** — A curated set of commonly used passwords for security testing.  
   https://github.com/josuamarcelc/common-password-list  
-
 - **BCA-API-v2** — Signature + token generator in PHP to fetch statements/forex.  
   https://github.com/josuamarcelc/BCA-API-v2  
-
 - **Chinese Lunar Calendar (PHP)** — Lunar ↔ Gregorian conversion & queries.  
   https://github.com/josuamarcelc/chinese-lunar-calendar-plugins  
 
@@ -70,5 +66,5 @@ I also write about lyrics, random experiences & computer science on [My PHP Blog
 
 ## ❤️ Support
 
-If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.
-If AgilePy helps you, consider visiting **[agilepy](https://agilepy.com/donate/)**
+-  If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.
+-  If AgilePy helps you, consider visiting **[agilepy](https://agilepy.com/donate/)**
