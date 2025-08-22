@@ -5,10 +5,6 @@ Core developer at [AgilePy.com](https://agilepy.com) — a minimal, extensible P
 I like engineering systems, shipping useful tools, competitive games, and history.  
 I also write about lyrics, random experiences & computer science on [josuamarcelc.com](https://josuamarcelc.com).
 
-[![Blog](https://img.shields.io/badge/Blog-josuamarcelc.com-0a0a0a?logo=wordpress&logoColor=white)](https://josuamarcelc.com)
-[![X (Twitter)](https://img.shields.io/badge/@josuamarcelc-000000?logo=x&logoColor=white)](https://x.com/josuamarcelc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/josuamarcelc)
-
 ---
 
 ## ⚡ What I’m up to
@@ -66,12 +62,13 @@ I also write about lyrics, random experiences & computer science on [josuamarcel
 
 ## 💬 Reach me
 
-- Blog/Contact: **[josuamarcelc.com](https://josuamarcelc.com)**
-- DM: **[@josuamarcelc](https://x.com/josuamarcelc)**
-- IG: **[@josuamarcelc](https://instagram.com/josuamarcelc)**
+[![Blog](https://img.shields.io/badge/Blog-josuamarcelc.com-0a0a0a?logo=wordpress&logoColor=white)](https://josuamarcelc.com)
+[![X (Twitter)](https://img.shields.io/badge/@josuamarcelc-000000?logo=x&logoColor=white)](https://x.com/josuamarcelc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/josuamarcelc)
 
 ---
 
 ## ❤️ Support
 
-If my work helps you, consider visiting **[josuamarcelc.com](https://josuamarcelc.com)** and sharing a post you liked.
+If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.
+If AgilePy helps you, consider visiting **[agilepy](https://agilepy.com/donate/)**
