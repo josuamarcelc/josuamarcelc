@@ -3,8 +3,9 @@
 **PHP, PostgreSQL & Python engineer** building APIs, bots, and lean products.  
 Core developer at [AgilePy](https://agilepy.com) — a minimal, extensible Python web framework.
 Founder of [SEOULTRA](https://seoultra.id) — offering free SEO, marketing, and developer tools.
-I like engineering systems, shipping useful tools, competitive games, and history.  
+I like engineering systems, shipping useful tools, competitive games, and history.
 I also write about lyrics, random experiences & computer science on [My PHP Blog](https://josuamarcelc.com).
+Community support: [Stackoverflow](https://stackoverflow.com/users/1562112/josua-m-c) & [Magento Overflow](https://magento.stackexchange.com/users/2330/josua-m-c)
 
 ---
 
