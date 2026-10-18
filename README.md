@@ -55,27 +55,19 @@ $josh = [
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=php,python,js,go,java,cpp,cs,html,css,sass" alt="Languages" />
+<img src="assets/toolbox-languages.svg" alt="PHP, Python, JavaScript, Go, Java, C++, C#, HTML, CSS, Sass" />
 
-**Frameworks & data**
+**Frameworks & CMS**
 <br>
-<img src="https://skillicons.dev/icons?i=codeigniter,nodejs,nextjs,bootstrap,postgres,mysql,redis,mongodb" alt="Frameworks and databases" />
+<img src="assets/toolbox-frameworks.svg" alt="CodeIgniter, AgilePy, Node.js, Next.js, Bootstrap, WordPress, Magento, Ext JS" />
+
+**Databases**
+<br>
+<img src="assets/toolbox-databases.svg" alt="PostgreSQL, MySQL, Redis, MongoDB" />
 
 **Infra & tools**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,nginx,aws,git,github" alt="Infrastructure and tools" />
-
-<details>
-<summary>…and a few more</summary>
-
-![AgilePy](https://img.shields.io/badge/AgilePy-0A84FF?style=flat-square&logo=python&logoColor=white&labelColor=0A0A0A)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![ExtJS](https://img.shields.io/badge/ExtJS-1E90FF?style=flat-square&logo=sencha&logoColor=white)
-![Canvas](https://img.shields.io/badge/HTML5%20Canvas-2C2C2C?style=flat-square&logo=html5&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-</details>
+<img src="assets/toolbox-infra.svg" alt="Linux, Ubuntu, Kali Linux, Docker, Nginx, AWS, DigitalOcean, Git, GitHub" />
 
 ---
 
