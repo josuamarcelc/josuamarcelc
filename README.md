@@ -41,13 +41,13 @@ $josh = [
 
 | Project | What it does | |
 |---|---|---|
-| 🔐 **[Common Password List](https://github.com/josuamarcelc/common-password-list)** | The classic `rockyou.txt` wordlist (built into Kali Linux) for security testing | ![stars](https://img.shields.io/github/stars/josuamarcelc/common-password-list?style=flat-square&label=%E2%98%85) |
-| 🌐 **[Registrar API](https://github.com/josuamarcelc/registrar-api)** | One PHP library for NameSilo, GoDaddy, Namecheap & Dynadot: availability, register, renew, transfer, DNS | ![stars](https://img.shields.io/github/stars/josuamarcelc/registrar-api?style=flat-square&label=%E2%98%85) |
-| 🏦 **[BCA API v2](https://github.com/josuamarcelc/BCA-API-v2)** | Bank BCA signature + token generation in PHP to fetch statements and forex | ![stars](https://img.shields.io/github/stars/josuamarcelc/BCA-API-v2?style=flat-square&label=%E2%98%85) |
-| 🛡️ **[PasteFilter](https://github.com/josuamarcelc/PasteFilter)** | Masks names, emails, secrets and customer data before they reach ChatGPT, Claude or Gemini | ![stars](https://img.shields.io/github/stars/josuamarcelc/PasteFilter?style=flat-square&label=%E2%98%85) |
-| 🧱 **[nginx-anti-ddos-attack](https://github.com/josuamarcelc/nginx-anti-ddos-attack)** | Stops `/?abc=RANDOM` query floods at Nginx and auto-blocks abusive IPs | ![stars](https://img.shields.io/github/stars/josuamarcelc/nginx-anti-ddos-attack?style=flat-square&label=%E2%98%85) |
-| 🐍 **[AgilePy](https://github.com/josuamarcelc/AgilePy)** | Open-source Python framework — lightweight and powerful | ![stars](https://img.shields.io/github/stars/josuamarcelc/AgilePy?style=flat-square&label=%E2%98%85) |
-| 🌙 **[Chinese Lunar Calendar](https://github.com/josuamarcelc/chinese-lunar-calendar-plugins)** | Lunar ↔ Gregorian conversion and date queries in PHP | ![stars](https://img.shields.io/github/stars/josuamarcelc/chinese-lunar-calendar-plugins?style=flat-square&label=%E2%98%85) |
+| 🔐 **[Common Password List](https://github.com/josuamarcelc/common-password-list)** | The classic `rockyou.txt` wordlist (built into Kali Linux) for security testing | ![stars](https://badgen.net/github/stars/josuamarcelc/common-password-list?icon=github&label=stars&color=0A84FF) |
+| 🌐 **[Registrar API](https://github.com/josuamarcelc/registrar-api)** | One PHP library for NameSilo, GoDaddy, Namecheap & Dynadot: availability, register, renew, transfer, DNS | ![stars](https://badgen.net/github/stars/josuamarcelc/registrar-api?icon=github&label=stars&color=0A84FF) |
+| 🏦 **[BCA API v2](https://github.com/josuamarcelc/BCA-API-v2)** | Bank BCA signature + token generation in PHP to fetch statements and forex | ![stars](https://badgen.net/github/stars/josuamarcelc/BCA-API-v2?icon=github&label=stars&color=0A84FF) |
+| 🛡️ **[PasteFilter](https://github.com/josuamarcelc/PasteFilter)** | Masks names, emails, secrets and customer data before they reach ChatGPT, Claude or Gemini | ![stars](https://badgen.net/github/stars/josuamarcelc/PasteFilter?icon=github&label=stars&color=0A84FF) |
+| 🧱 **[nginx-anti-ddos-attack](https://github.com/josuamarcelc/nginx-anti-ddos-attack)** | Stops `/?abc=RANDOM` query floods at Nginx and auto-blocks abusive IPs | ![stars](https://badgen.net/github/stars/josuamarcelc/nginx-anti-ddos-attack?icon=github&label=stars&color=0A84FF) |
+| 🐍 **[AgilePy](https://github.com/josuamarcelc/AgilePy)** | Open-source Python framework — lightweight and powerful | ![stars](https://badgen.net/github/stars/josuamarcelc/AgilePy?icon=github&label=stars&color=0A84FF) |
+| 🌙 **[Chinese Lunar Calendar](https://github.com/josuamarcelc/chinese-lunar-calendar-plugins)** | Lunar ↔ Gregorian conversion and date queries in PHP | ![stars](https://badgen.net/github/stars/josuamarcelc/chinese-lunar-calendar-plugins?icon=github&label=stars&color=0A84FF) |
 
 ---
 
@@ -94,16 +94,24 @@ $josh = [
 
 ## ☕ Support my work
 
-If something here saved you an afternoon:
+If something here saved you an afternoon, any of these helps a lot:
 
-- ⭐ Star the repo it came from — it genuinely helps
-- 💙 Buy me a coffee via **[PayPal](https://paypal.me/josuamarcelc)**
-- 🐍 Support the framework at **[AgilePy Donate](https://agilepy.com/donate/)**
+<div align="center">
+
+[![Buy me a coffee via PayPal](https://img.shields.io/badge/Buy%20me%20a%20coffee-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/josuamarcelc)
+[![Donate to AgilePy](https://img.shields.io/badge/Donate-AgilePy-0A84FF?style=for-the-badge&logo=python&logoColor=white)](https://agilepy.com/donate/)
+[![Star a repo](https://img.shields.io/badge/Star%20a%20repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josuamarcelc?tab=repositories&sort=stargazers)
+[![Free SEO tools](https://img.shields.io/badge/Free%20SEO%20tools-SEOULTRA-FF6B00?style=for-the-badge&logo=googlesearchconsole&logoColor=white)](https://seoultra.id/tools/)
+[![Follow on X](https://img.shields.io/badge/Follow-@josuamarcelc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josuamarcelc)
+
+</div>
+
+---
 
 <div align="center">
 
 <sub>Thanks for stopping by — have a bug-free day! 🐛🚫</sub>
 <br>
-<img src="https://komarev.com/ghpvc/?username=josuamarcelc&style=flat-square&color=0A84FF&label=profile+views" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=josuamarcelc.josuamarcelc&left_text=profile%20views&left_color=%23555&right_color=%230A84FF" alt="Profile views" />
 
 </div>
