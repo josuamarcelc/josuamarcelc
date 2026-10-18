@@ -1,83 +1,109 @@
-# Hey, I’m Josh
+<div align="center">
 
-**PHP, PostgreSQL & Python engineer** building APIs, bots, and lean products.  
-Core developer at [AgilePy](https://agilepy.com) — a minimal, extensible Python web framework.
-Founder of [SEOULTRA](https://seoultra.id) — offering free SEO, marketing, and developer tools.
-I like engineering systems, shipping useful tools, competitive games, and history.
-I also write about lyrics, random experiences & computer science on [My PHP Blog](https://josuamarcelc.com).
-Community support: [Stackoverflow](https://stackoverflow.com/users/1562112/josua-m-c) & [Magento Overflow](https://magento.stackexchange.com/users/2330/josua-m-c)
+# Hey, I’m Josh 👋
 
----
+<a href="https://josuamarcelc.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A84FF&center=true&vCenter=true&width=620&lines=PHP+%C2%B7+Python+%C2%B7+PostgreSQL+engineer;I+build+APIs%2C+bots+and+lean+products;Core+dev+%40+AgilePy+%E2%80%A2+Founder+%40+SEOULTRA;Breaking+things+so+you+don't+have+to+%F0%9F%9B%A0%EF%B8%8F" alt="Typing intro" />
+</a>
 
-## ⚡ What I’m up to
-- Core system dev at [AgilePy](https://agilepy.com)  
-- Feel free to use the [Premium SEO Free Tools](https://seoultra.id/tools/) 
-- Shipping small, composable libraries and APIs in PHP & Python.  
-- Playing with bots, webhooks, and payments.  
-- Writing about things I break (and fix).  
+[![Blog](https://img.shields.io/badge/Blog-josuamarcelc.com-0a0a0a?style=flat-square&logo=wordpress&logoColor=white)](https://josuamarcelc.com)
+[![AgilePy](https://img.shields.io/badge/AgilePy.com-0A84FF?style=flat-square&logo=python&logoColor=white)](https://agilepy.com)
+[![SEOULTRA](https://img.shields.io/badge/SEOULTRA-free%20SEO%20tools-FF6B00?style=flat-square)](https://seoultra.id/tools/)
+[![X](https://img.shields.io/badge/@josuamarcelc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/josuamarcelc)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1562112/josua-m-c)
+
+</div>
 
 ---
 
-## 🧰 Tech I use (often)
+## 🧑‍💻 About me
 
-![AgilePy](https://img.shields.io/badge/AgilePy.com-0A84FF?logo=python&logoColor=white&labelColor=0A0A0A)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![ExtJS](https://img.shields.io/badge/ExtJS-1E90FF?logo=sencha&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas-2C2C2C?logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+```php
+<?php
+$josh = [
+    'role'      => 'PHP, PostgreSQL & Python engineer',
+    'building'  => ['APIs', 'bots', 'webhooks', 'payments', 'lean products'],
+    'core_dev'  => 'AgilePy — a minimal, extensible Python web framework',
+    'founder'   => 'SEOULTRA — free SEO, marketing & developer tools',
+    'based_in'  => 'Singapore 🇸🇬',
+    'off_duty'  => ['competitive games 🎮', 'history 📜', 'song lyrics 🎵'],
+];
+```
+
+- 🔭 Shipping small, composable libraries and APIs in **PHP** and **Python**
+- 🤖 Playing with bots, webhooks and payment integrations
+- ✍️ Writing about things I break (and fix) on [my PHP blog](https://josuamarcelc.com)
+- 🤝 Helping out on [Stack Overflow](https://stackoverflow.com/users/1562112/josua-m-c) and [Magento Stack Exchange](https://magento.stackexchange.com/users/2330/josua-m-c)
 
 ---
 
 ## 📌 Featured projects
 
-- 😁 **[Registrar API](https://github.com/josuamarcelc/registrar-api)** — Registrar API implementation in PHP (domain registrar integration).
-- 😉 **[Common Password List](https://github.com/josuamarcelc/common-password-list)** — A curated set of commonly used passwords for security testing.
-- 😜 **[BCA-API-v2](https://github.com/josuamarcelc/BCA-API-v2)** — Signature + token generator in PHP to fetch statements/forex.
-- 😝 **[Chinese Lunar Calendar (PHP)](https://github.com/josuamarcelc/chinese-lunar-calendar-plugins)** — Lunar ↔ Gregorian conversion & queries.
+| Project | What it does | |
+|---|---|---|
+| 🔐 **[Common Password List](https://github.com/josuamarcelc/common-password-list)** | The classic `rockyou.txt` wordlist (built into Kali Linux) for security testing | ![stars](https://img.shields.io/github/stars/josuamarcelc/common-password-list?style=flat-square&label=%E2%98%85) |
+| 🌐 **[Registrar API](https://github.com/josuamarcelc/registrar-api)** | One PHP library for NameSilo, GoDaddy, Namecheap & Dynadot: availability, register, renew, transfer, DNS | ![stars](https://img.shields.io/github/stars/josuamarcelc/registrar-api?style=flat-square&label=%E2%98%85) |
+| 🏦 **[BCA API v2](https://github.com/josuamarcelc/BCA-API-v2)** | Bank BCA signature + token generation in PHP to fetch statements and forex | ![stars](https://img.shields.io/github/stars/josuamarcelc/BCA-API-v2?style=flat-square&label=%E2%98%85) |
+| 🛡️ **[PasteFilter](https://github.com/josuamarcelc/PasteFilter)** | Masks names, emails, secrets and customer data before they reach ChatGPT, Claude or Gemini | ![stars](https://img.shields.io/github/stars/josuamarcelc/PasteFilter?style=flat-square&label=%E2%98%85) |
+| 🧱 **[nginx-anti-ddos-attack](https://github.com/josuamarcelc/nginx-anti-ddos-attack)** | Stops `/?abc=RANDOM` query floods at Nginx and auto-blocks abusive IPs | ![stars](https://img.shields.io/github/stars/josuamarcelc/nginx-anti-ddos-attack?style=flat-square&label=%E2%98%85) |
+| 🐍 **[AgilePy](https://github.com/josuamarcelc/AgilePy)** | Open-source Python framework — lightweight and powerful | ![stars](https://img.shields.io/github/stars/josuamarcelc/AgilePy?style=flat-square&label=%E2%98%85) |
+| 🌙 **[Chinese Lunar Calendar](https://github.com/josuamarcelc/chinese-lunar-calendar-plugins)** | Lunar ↔ Gregorian conversion and date queries in PHP | ![stars](https://img.shields.io/github/stars/josuamarcelc/chinese-lunar-calendar-plugins?style=flat-square&label=%E2%98%85) |
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Toolbox
 
-![Streak](https://streak-stats.demolab.com?user=josuamarcelc)  
-![Stats](https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&layout=compact)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuamarcelc&theme=github)
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=php,python,js,go,java,cpp,cs,html,css,sass" alt="Languages" />
+
+**Frameworks & data**
+<br>
+<img src="https://skillicons.dev/icons?i=codeigniter,nodejs,nextjs,bootstrap,postgres,mysql,redis,mongodb" alt="Frameworks and databases" />
+
+**Infra & tools**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,docker,nginx,aws,git,github" alt="Infrastructure and tools" />
+
+<details>
+<summary>…and a few more</summary>
+
+![AgilePy](https://img.shields.io/badge/AgilePy-0A84FF?style=flat-square&logo=python&logoColor=white&labelColor=0A0A0A)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![ExtJS](https://img.shields.io/badge/ExtJS-1E90FF?style=flat-square&logo=sencha&logoColor=white)
+![Canvas](https://img.shields.io/badge/HTML5%20Canvas-2C2C2C?style=flat-square&logo=html5&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</details>
 
 ---
 
-## 💬 Reach me
+## 📈 GitHub at a glance
 
-[![Blog](https://img.shields.io/badge/Blog-josuamarcelc.com-0a0a0a?logo=wordpress&logoColor=white)](https://josuamarcelc.com)
-[![X (Twitter)](https://img.shields.io/badge/@josuamarcelc-000000?logo=x&logoColor=white)](https://x.com/josuamarcelc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/josuamarcelc)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=josuamarcelc&show_icons=true&hide_border=true&theme=transparent&title_color=0A84FF&icon_color=0A84FF&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuamarcelc&layout=compact&hide_border=true&theme=transparent&title_color=0A84FF&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=josuamarcelc&hide_border=true&theme=transparent&ring=0A84FF&fire=FF6B00&currStreakLabel=0A84FF" alt="Contribution streak" />
+
+</div>
 
 ---
 
-## ❤️ Support
+## ☕ Support my work
 
--  If my work helps you, consider visiting **[josuamarcelc Paypal](https://paypal.me/josuamarcelc)** and sharing a post you liked.  
--  If AgilePy helps you, consider visiting **[AgilePy Donate](https://agilepy.com/donate/)**  
+If something here saved you an afternoon:
+
+- ⭐ Star the repo it came from — it genuinely helps
+- 💙 Buy me a coffee via **[PayPal](https://paypal.me/josuamarcelc)**
+- 🐍 Support the framework at **[AgilePy Donate](https://agilepy.com/donate/)**
+
+<div align="center">
+
+<sub>Thanks for stopping by — have a bug-free day! 🐛🚫</sub>
+<br>
+<img src="https://komarev.com/ghpvc/?username=josuamarcelc&style=flat-square&color=0A84FF&label=profile+views" alt="Profile views" />
+
+</div>
